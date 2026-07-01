@@ -1,2 +1,2 @@
 # mlt-techniques-project
-Multimodal meotion recognition using MLT
+Multimodal emotion recognition using MLT
